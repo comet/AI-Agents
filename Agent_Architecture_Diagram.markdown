@@ -1,7 +1,7 @@
 ```mermaid
 graph TD
     %% Input Layer
-    A[Input Layer] -->|Risk Controls (PDF)| B[Document Ingestion]
+    A -->|Risk Controls (PDF)| B[Document Ingestion]
     A -->|Audit Logs (CSV)| C[Data Ingestion]
     
     %% Processing Layer
