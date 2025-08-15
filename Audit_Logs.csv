@@ -1,0 +1,6 @@
+Transaction_ID,Date,Amount,User_ID,Verified_2FA,Approver_Role,Retry_Count
+TX001,2025-08-01 10:15,12000,USER123,False,Manager,1
+TX002,2025-08-01 11:30,8000,USER456,True,Manager,0
+TX003,2025-08-02 09:45,15000,USER789,True,Analyst,2
+TX004,2025-08-02 14:20,6000,USER101,True,Manager,4
+TX005,2025-08-03 16:00,2000,USER202,True,Supervisor,0
